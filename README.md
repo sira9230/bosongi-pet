@@ -1,6 +1,6 @@
 # 보송이
 
-![보송이 기본 모습](bosongi-preview.png)
+<img src="bosongi-preview.png" alt="보송이 기본 모습" width="180">
 
 사과를 좋아하는 호기심 많은 레서판다, 보송이의 Codex v2 커스텀 펫 패키지입니다.
 
